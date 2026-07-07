@@ -1,6 +1,6 @@
 # ZodiacTicketLocalProject
 
-此目錄是「星座籤」ticket 的獨立 Xcode 專案備份版，不包含詳情頁、不包含現有票文內容，也不參與主 app runtime。
+此目錄是「繁星籤」 的 Xcode 專案備份版，不包含詳情頁、不包含現有票文內容，也不參與主 app runtime。
 
 ## 授權與致謝
 
@@ -26,7 +26,7 @@
 ## 不包含
 
 - 不包含 `Resources/Zodiac/zodiac_ticket_text.json` 的實際文案。
-- 不包含 `Resources/Zodiac/Detail` 與任何詳情頁模型或詳情頁文案。
+- 不包含 `Resources/Zodiac/Detail` 與任何詳情頁文案。
 - 不包含測試 target。
 
 ## 接入方式
