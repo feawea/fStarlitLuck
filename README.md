@@ -1,6 +1,6 @@
 # ZodiacTicketLocalProject
 
-此目錄是「繁星籤」 的 Xcode 專案備份版，不包含詳情頁、不包含現有票文內容，也不參與主 app runtime。
+此目錄是「繁星籤」 的 Xcode 專案備份版，不包含詳情文本、不包含現有票文文本內容。
 
 ## 授權與致謝
 
