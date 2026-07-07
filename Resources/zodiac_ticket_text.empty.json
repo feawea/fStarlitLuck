@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "domain": "zodiac",
+  "surface": "ticket",
+  "languages": {
+    "und": {
+      "language": "und",
+      "strings": {},
+      "templates": {},
+      "astrologyCopyTemplates": []
+    }
+  }
+}
+

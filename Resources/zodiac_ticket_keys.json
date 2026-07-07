@@ -1,0 +1,30 @@
+{
+  "strings": [
+    "divination.zodiac.short",
+    "horoscope.ticket.label.serial_no",
+    "horoscope.ticket.label.inspiration",
+    "horoscope.ticket.label.do",
+    "horoscope.ticket.label.caution",
+    "horoscope.ticket.label.overview",
+    "horoscope.ticket.label.trigger_focus",
+    "horoscope.ticket.label.trigger_badge",
+    "horoscope.ticket.identity.moon",
+    "horoscope.ticket.identity.asc",
+    "horoscope.ticket.plus_n_format"
+  ],
+  "templates": [
+    "ticket.compact.sun_moon_asc",
+    "ticket.compact.inspiration",
+    "ticket.compact.lucky_title",
+    "ticket.compact.lucky_line",
+    "ticket.compact.caution_title",
+    "ticket.compact.caution_line",
+    "ticket.compact.focus_summary",
+    "ticket.compact.curiosity_question",
+    "ticket.compact.plain_reason",
+    "ticket.compact.trigger_hook",
+    "ticket.compact.reveal_line_1",
+    "ticket.compact.reveal_line_2"
+  ]
+}
+
